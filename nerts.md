@@ -16,8 +16,8 @@ I am currently obsessed with NERTS.
 - to play, playable - putting a card into the foundation, a card that
   can be put into the foundation
 - free pile - a tableau column that has no cards in it
-- exposed card - a tableau card that is at the bottom of its column
-  and can be freely moved
+- exposed card - a tableau card that is at the end of its column and
+  can be freely moved, or the currently visible NERTS card
 - hidden card - a tableau card that is not exposed and cannot be
   accessed directly
 
@@ -33,7 +33,7 @@ Tableau-focused < - - - - - - - - - - - > Foundation-focused
 At its most extreme, this strategy would involve:
 - Building n-1 full tableau columns, to accommodate as many NERTS
   cards as possible
-- Always keeping a free pile handy,
+- Always keeping a free pile handy (\*),
 - Moving cards from the stock into the tableau whenever possible, as
   long as there is still a free pile after the operation.
 
@@ -42,6 +42,15 @@ incentives to call NERTS, foundation moves slowly. It ideally leads to
 a low-scoring NERTS that can be achieved independently of others'
 play. The independence means that you could be very ahead of everyone
 else, or you could be very behind, depending on your luck.
+
+(\*) Having a free pile is crucial for a tableau-focused strategy as
+it enables access to hidden tableau cards. Possible operations
+include:
+- Putting high cards "behind" a tableau column,
+- Extracting a card from the middle of the column, and replacing it
+  with its same-coloured counterpart. \*\*Warning\*\* if the
+  counterpart is the current stock card, you will be locked out of it
+  if someone else calls NERTS.
 
 ### Foundation-focused strategy
 
@@ -59,6 +68,7 @@ This means that even if you don't call NERTS first, you typically will
 have scored a similar number of points to everyone else who is using
 this strategy.
 
+
 ### Mixed strategy
 
 This is harder to define, so here are some examples:
@@ -67,11 +77,14 @@ This is harder to define, so here are some examples:
 - Only building tableau columns in the direction that would facilitate
   two columns being merged,
 - Keeping a free pile for only a limited amount of time (e.g. until
-  after you have played a hidden tableau card).
+  after you have played a hidden tableau card),
+- Moving a card from stock to tableau only if it is likely to be
+  playable soon.
 
-An ideal strategy is a mix that adapts to the current meta conditions.
-
-## Specific tips
-
-Coming soon ??
+An ideal strategy could be a mix that adapts to the current meta
+conditions, such as the foundation's progression speed and the
+playability of your current exposed cards. Alternatively, lull your
+opponents into a false sense of security using one style and then
+perform a hard u-turn. If anyone actually has the mental capacity to
+notice this, then you should probably find a different opponent.
 
