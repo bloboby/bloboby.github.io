@@ -1,9 +1,9 @@
 # NERTS
 
-I am currently obsessed with NERTS. Here are some of my thoughts on
-NERTS strategy.
+I am currently obsessed with NERTS.
 
-## Standard terminology
+### Standard terminology
+
 - NERTS pile - the 13 cards that you need to get rid of in order to
   call NERTS
 - tableau - your personal hetero columns
@@ -11,6 +11,7 @@ NERTS strategy.
 - stock pile - the pile that you scroll through 3 at a time
 
 ### Additional terminology
+
 - n - the number of columns in your tableau
 - to play, playable - putting a card into the foundation, a card that
   can be put into the foundation
@@ -24,6 +25,7 @@ NERTS strategy.
 
 Since NERTS cards end up either in your tableau or in foundations,
 consider strategies that lie somewhere on the following scale:
+
 Tableau-focused < - - - - - - - - - - - > Foundation-focused
 
 ### Tableau-focused strategy
@@ -58,6 +60,7 @@ have scored a similar number of points to everyone else who is using
 this strategy.
 
 ### Mixed strategy
+
 This is harder to define, so here are some examples:
 - Building only 1 or 2 full tableau columns, and using the other
   columns as intermediate storage,
@@ -69,4 +72,6 @@ This is harder to define, so here are some examples:
 An ideal strategy is a mix that adapts to the current meta conditions.
 
 ## Specific tips
+
+Coming soon ??
 
