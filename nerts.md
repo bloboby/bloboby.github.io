@@ -1,5 +1,7 @@
 # NERTS
 
+## Terminology
+
 ### Standard terminology
 
 - NERTS pile - the 13 cards that you need to get rid of in order to
@@ -24,8 +26,8 @@ After some experimentation I have settled on the following strategy:
 2. Build around n/2 full personal columns of opposite parity.
 3. The other columns are for intermediate storage and ALL of their
    cards should be imminently playable into the shared piles.
-4. Don't move cards out of tab deck unless it helps with either (2) or
-   (3).
+4. Don't move cards out of tab deck unless it helps with (2), or
+   very rarely (3).
 
 Here are some more situational techniques:
 - Build personal columns in the direction that would facilitate two
@@ -56,7 +58,7 @@ Holding-area-focused < - - - - - - - - - > Shared-pile-focused
 
 My strategy is a mix of the two, with tweaks based on the number of
 players as indicated by the arrows above. It leans towards the
-shared-pile focus, because I feel that the benefit of always having an
+shared-pile focus because I feel that the benefit of always having an
 extra exposed card generally outweighs the benefit of having a
 permanent free pile.
 
@@ -65,8 +67,8 @@ permanent free pile.
 These ideas focus on playing as many cards into the shared piles as
 possible.
 
-- Play cards into a shared pile whenever reasonable and use the
-  holding area only as an intermediate storage space.
+- Play cards into a shared pile if possible, unless it's unreasonable.
+  Use the holding area only as an intermediate storage space.
 - Always play the next NERTS card into any free columns, to maximise
   the number of exposed cards.
 - Only move cards from the tab deck into your holding area if there is
